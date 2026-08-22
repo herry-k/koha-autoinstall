@@ -38,7 +38,7 @@ A single Bash script that installs a **fully working Koha ILS** on Ubuntu 24.04 
 
 ```bash
 # Download
-wget https://raw.githubusercontent.com/yourusername/koha-autoinstall/main/koha-install.sh
+wget https://raw.githubusercontent.com/herry-k/koha-autoinstall/main/koha-install.sh
 
 # Run
 sudo bash koha-install.sh
